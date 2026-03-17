@@ -1,0 +1,3 @@
+'Layer', 'linetype', 'lineweight', 'material_handle', 'name', 'owner', 'plot', 'plotstyle_handle'
+'0', 'Continuous', -3, '21', '0', '1', 1, '13'
+'Defpoints', 'Continuous', -3, '21', 'Defpoints', '1', 0, '13'
